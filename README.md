@@ -13,4 +13,13 @@
 
 📌 Here's a link to my Codepen : https://codepen.io/psp3075
 
+
+Projects:
+1. Newsletter Signup : https://desolate-cove-53019.herokuapp.com/
+2. Dice Game : https://murmuring-forest-98404.herokuapp.com/
+3. Covid Tracker :https://covid19-tracker-a6aaa.web.app/
+4. Chat App : https://notwhatsapp-eba8d.web.app/
+5. Not Amazon : https://not-3a66d.web.app/
+6. Kinda Netflix : https://notnetflix-6e015.web.app/
+7. MyplaceBook : coming up ...
    
