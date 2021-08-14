@@ -22,5 +22,5 @@ Projects:
 5. Not Amazon : https://not-3a66d.web.app/
 6. Kinda Netflix : https://notnetflix-6e015.web.app/
 7. MyplaceBook : https://myplacebook-1aa68.web.app/
-8. Bookstay : Under development 😎
+8. Bookstay : https://bookstay-e4141.web.app/
    
