@@ -9,7 +9,6 @@
 
 💻 Back-End Development: <img align="center" height="30" src="https://user-images.githubusercontent.com/69760792/121766706-a67ec180-cb71-11eb-923d-69fc323bafa4.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/java-web-token.png"/> <img align="center" height="30" src="https://www.python.org/static/opengraph-icon-200x200.png"/>
 
-📌 Here's a link to my Portfolio : bit.ly/pavansp
 
 📌 Here's a link to my Codepen : https://codepen.io/psp3075
 
