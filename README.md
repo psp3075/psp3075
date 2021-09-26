@@ -19,7 +19,7 @@ Projects:
 3. Covid Tracker :https://covid19-tracker-a6aaa.web.app/
 4. Chat App : https://notwhatsapp-eba8d.web.app/
 5. Not Amazon : https://not-3a66d.web.app/
-6. Kinda Netflix : https://notnetflix-6e015.web.app/
+6. Netflix clone : https://netflixc-f2f9c.web.app/
 7. MyplaceBook : https://myplacebook-1aa68.web.app/
 8. Bookstay : https://bookstay-e4141.web.app/
 9. QuizTime : https://psp3075.github.io/quiz/
