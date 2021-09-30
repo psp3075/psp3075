@@ -24,4 +24,5 @@ Projects:
 8. Bookstay : https://bookstay-e4141.web.app/
 9. QuizTime : https://psp3075.github.io/quiz/
 10. Rockets : https://rocketsofspacex.herokuapp.com/
+11. GetWeather : https://getweatherofyourcity.netlify.app/
    
