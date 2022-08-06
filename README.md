@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📌 I am Pavan Patil, a software developer. I work on building exciting real-world projects at free time.
+📌 My name is Pavan Patil, a software developer. I work on building exciting real-world projects.
 
 📌 My technical skills include :
 
