@@ -13,7 +13,7 @@
 📌 Here's a link to my Codepen : https://codepen.io/psp3075
 
 
-Projects:
+Projects 💻😎🚀:
 1. Newsletter Signup : https://desolate-cove-53019.herokuapp.com/
 2. Dice Game : https://murmuring-forest-98404.herokuapp.com/
 3. Covid Tracker :https://covid19-tracker-a6aaa.web.app/
