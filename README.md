@@ -26,5 +26,6 @@ Projects 💻😎🚀:
 10. Rockets : https://rocketsofspacex.herokuapp.com/
 11. GetWeather : https://getweatherofyourcity.netlify.app/
 12. Proger : https://proger-87bcd.web.app/
+13. QRCoder : https://psp3075.github.io/QR-Coder/
 
    
