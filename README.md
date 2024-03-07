@@ -12,18 +12,19 @@
 
 
 Projects 💻😎🚀:
-1. Newsletter Signup : https://desolate-cove-53019.herokuapp.com/
-2. Dice Game : https://murmuring-forest-98404.herokuapp.com/
-3. Covid Tracker :https://covid19-tracker-a6aaa.web.app/
-4. Chat App : https://notwhatsapp-eba8d.web.app/
-5. Not Amazon : https://not-3a66d.web.app/
-6. Netflix clone : https://netflixc-f2f9c.web.app/
-7. MyplaceBook : https://myplacebook-1aa68.web.app/
-8. Bookstay : https://bookstay-e4141.web.app/
-9. QuizTime : https://psp3075.github.io/quiz/
-10. Rockets : https://rocketsofspacex.herokuapp.com/
-11. GetWeather : https://getweatherofyourcity.netlify.app/
-12. Proger : https://proger-87bcd.web.app/
-13. QRCoder : https://psp3075.github.io/QR-Coder/
+1. [Newsletter Signup](https://desolate-cove-53019.herokuapp.com/)
+2. [Dice Game](https://murmuring-forest-98404.herokuapp.com/)
+3. [Covid Tracker](https://covid19-tracker-a6aaa.web.app/)
+4. [Chat App](https://notwhatsapp-eba8d.web.app/)
+5. [Not Amazon](https://not-3a66d.web.app/)
+6. [Netflix clone](https://netflixc-f2f9c.web.app/)
+7. [MyplaceBook](https://myplacebook-1aa68.web.app/)
+8. [Bookstay](https://bookstay-e4141.web.app/)
+9. [QuizTime](https://psp3075.github.io/quiz/)
+10. [Rockets](https://rocketsofspacex.herokuapp.com/)
+11. [GetWeather](https://getweatherofyourcity.netlify.app/)
+12. [Proger](https://proger-87bcd.web.app/)
+13. [QRCoder](https://psp3075.github.io/QR-Coder/)
+14. [Dashview](https://dashview-beta.vercel.app/) 
 
    
